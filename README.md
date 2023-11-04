@@ -3,4 +3,4 @@
 npx expo start -c
 
 - Node 20
-npm run 
+npm run start-custom
